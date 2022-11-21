@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+nav>ul>li{
+    color: yellow;
+}
+
+article{
+   color: rgb(178, 179, 178); 
+}
+
+#tituloblog{
+    text-align: center;
+    font-size: 3rem;
+}
